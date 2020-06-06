@@ -1,6 +1,8 @@
 # storybook-issue
 storybook issue report for SASS/SCSS
 
+# Working solution
+
 This is the working webpack configuration for storybook.
 
 # Goal - Common SCSS / SASS constants for the storybook.
