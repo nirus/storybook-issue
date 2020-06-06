@@ -1,4 +1,5 @@
+@import "../../styles/common";
 .test-button{
-    background-color: black !important;
-    color: white !important;
+    background-color: $button-color !important;
+    color: $button-font-color !important;
 }
